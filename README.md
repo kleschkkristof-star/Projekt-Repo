@@ -34,7 +34,7 @@ Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága
 	
 	>Rendszám
 	
->Alvázszám
+    >Alvázszám
 
 	>Évjárat
 	
