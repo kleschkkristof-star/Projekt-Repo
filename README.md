@@ -42,10 +42,32 @@ Az autód költségeinek, szervizelésének jobb átláthatósága
 	
 	>Motor
 	
--műszaki vizsga időpontja
--szervízköltségek vezetése (pl:olajcsere) és nyomonkövetése visszamenőleg átlagfogyasztás
--biztosítások lejárati dátuma
-- autópálya matrica van-e, lejárati dátum, hátra lévo idő
+-Műszaki Vizsgák
+
+	>Jelenlegi Műszaki Vizsga : lejárati dátum, visszaszámláló
+	
+	>Időpont Foglalás
+
+-Szervízek
+
+	>Összes költség (miből áll össze : pl olajcsere, légszűrő csere)
+	
+	>Szűrő
+	
+	>Számlák
+	
+-Biztosítások 
+
+	>lejárati dátum
+
+	>visszaszámláló
+
+- Autópálya matricák
+  
+	>lejárati dátum
+
+	>visszaszámláló
+
 
 
 
