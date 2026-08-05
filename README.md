@@ -1,7 +1,7 @@
 # Projekt-Repo
 Tagok:  
 
-Kocsis Kender, Klesch Kristóf, Krapp Martin 
+Kocsis Kende, Klesch Kristóf, Krapp Martin 
 
 Projektvezető: Klesch Kristóf 
 
