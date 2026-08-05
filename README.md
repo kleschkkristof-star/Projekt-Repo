@@ -7,9 +7,12 @@ Projektvezető: Klesch Kristóf
 Front-end: Krapp Martin
 Back-end: Kocsis Kende
 
-Téma: 
+**Téma:**
 
 Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága 
+
+**Felépítés:**
+
 
 
 
