@@ -27,14 +27,23 @@ Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága
 
 2 : Főoldal
 -saját autónk adatai
+
 	>Márka
+	
 	>Típus
+	
 	>Rendszám
+	
 >Alvázszám
+
 	>Évjárat
+	
 	>Szín
+	
 	>Motor
+	
 	>
+	
 	>
 -műszaki vizsga időpontja
 -szervízköltségek vezetése (pl:olajcsere) és nyomonkövetése visszamenőleg átlagfogyasztás
