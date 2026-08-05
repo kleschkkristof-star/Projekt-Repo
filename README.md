@@ -16,7 +16,7 @@ Back-end: Kocsis Kende
 
 **Téma:**
 
-Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága 
+Az autód költségeinek, szervizelésének jobb átláthatósága 
 
 **Felépítés:**
 
