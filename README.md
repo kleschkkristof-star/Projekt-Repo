@@ -45,7 +45,7 @@ Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága
 -műszaki vizsga időpontja
 -szervízköltségek vezetése (pl:olajcsere) és nyomonkövetése visszamenőleg átlagfogyasztás
 -biztosítások lejárati dátuma
-- autopalya matrica van-e, lejarati datum, hatra levo ido
+- autópálya matrica van-e, lejárati dátum, hátra lévo idő
 
 
 
