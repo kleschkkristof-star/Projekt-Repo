@@ -20,13 +20,28 @@ Az autód költségeinek, szervizelésének jobb átláthatósága
 
 **Felépítés:**
 
+Mit fog tudni: 
+
 1 : Bejelentkezés/Regisztráció
+
 -email/tel szám/rendszám
+
 -jelszó
--google/facebook/apple id belepes 
+
+-google/facebook/apple id belépés
 
 2 : Főoldal
--saját autónk adatai
+
+-Jármű Alapadatok	
+
+-Műszaki Vizsgák	
+
+-Szervízek
+
+-Biztosítások
+
+- Autópálya matricák
+
 
 	>Márka
 	
