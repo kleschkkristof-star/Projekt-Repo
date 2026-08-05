@@ -1,5 +1,5 @@
 # Projekt-Repo
-Tagok:  
+**Tagok:**
 
 Kocsis Kende, Klesch Kristóf, Krapp Martin 
 
