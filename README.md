@@ -1,12 +1,19 @@
 # Projekt-Repo
 **Tagok:**
 
+
 Kocsis Kende, Klesch Kristóf, Krapp Martin 
 
-Projektvezető: Klesch Kristóf 
+Projektvezető, adatbázis: Klesch Kristóf 
+
+
 Front-end: Krapp Martin
+
+
 Back-end: Kocsis Kende
-Adatbázis: Klesch Kristóf
+
+
+
 **Téma:**
 
 Autóbarát- az autód költségeinek, szervizelésének jobb átláthatósága 
